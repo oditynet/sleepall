@@ -22,6 +22,6 @@ g++ -static sleepall.cpp -o sleepall
 Управление процессом разрешено на:
 - arch
 - alt 8 sp 10
-- 
+  
 Запрещено:
 - Centos 7
