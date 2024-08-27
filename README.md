@@ -15,7 +15,7 @@ gcc server.c -o server
 
 <img src="https://github.com/oditynet/sleepall/blob/main/1.png" title="withwords" width="500" />
 
-Фото что на самом в терминале происходит:
+Фото что на самом деле происходит в терминале:
 
 <img src="https://github.com/oditynet/sleepall/blob/main/2.png" title="wioutwords" width="500" />
 
