@@ -20,7 +20,7 @@ gcc server.c -o server
 <img src="https://github.com/oditynet/sleepall/blob/main/2.png" title="wioutwords" width="500" />
 
 
-Управление процессом разрешено на:
+Управление процессом пользователю разрешено на:
 - arch
 - alt 8 sp 10
   
