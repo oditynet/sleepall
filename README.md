@@ -26,3 +26,5 @@ gcc server.c -o server
   
 Запрещено:
 - Centos 7
+
+P.S.: Уииии.
