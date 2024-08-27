@@ -17,3 +17,10 @@ g++ -static sleepall.cpp -o sleepall
 Фото что на самом в терминале происходит:
 
 <img src="https://github.com/oditynet/sleepall/blob/main/2.png" title="wioutwords" width="500" />
+
+
+Управление процессом разрешено на:
+- arch
+- alt 8 sp 10
+Запрещено:
+- Centos 7
