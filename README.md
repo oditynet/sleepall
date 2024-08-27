@@ -8,6 +8,7 @@
 Build:
 ```
 g++ -static sleepall.cpp -o sleepall
+gcc server.c -o server
 ```
 
 Фото фейкового приглашения:
