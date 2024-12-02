@@ -27,4 +27,4 @@ gcc server.c -o server
 Запрещено:
 - Centos 7
 
-P.S.: Уииии.
+P.S.: Уииии, но только работает в bash (zsh нет)
